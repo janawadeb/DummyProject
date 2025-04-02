@@ -24,7 +24,7 @@ public class CreateContact extends BaseClass {
 		@Test()
 		//@Parameters("browser")
 		//@Test(groups= {"Smoke Test"})
-		public void createContactTest() throws IOException, InterruptedException
+		public void createContact() throws IOException, InterruptedException
 		{
 			
 		JavaUtility jUtil = new JavaUtility();
