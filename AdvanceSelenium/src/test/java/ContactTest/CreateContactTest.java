@@ -19,7 +19,7 @@ import ObjectRepository.DashboardPage;
 import genericBaseClassUtility.BaseClass;
 import genericListenerUtility.ListenerImp;
 @Listeners(ListenerImp.class)
-public class CreateContact extends BaseClass {
+public class CreateContactTest extends BaseClass {
 
 		@Test()
 		//@Parameters("browser")
