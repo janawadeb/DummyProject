@@ -7,5 +7,6 @@ public class ReadTest {
 	public void WriteTest()
 	{
 		System.out.println("Write test executed successfully");
+		System.out.println("Done");
 	}
 }
